@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alexandritax
+- 👀 I’m interested in writting code and databases
+- 🌱 I’m currently learning how to program in ruby and sql
+- 💞️ I’m looking to collaborate on the programs from adove
+- 📫 How to reach me DM me in my discord A L E X#8068 or write to my email silvasolisdelbarrio@gmail.com
